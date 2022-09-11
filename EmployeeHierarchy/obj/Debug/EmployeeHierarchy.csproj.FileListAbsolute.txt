@@ -1,0 +1,2 @@
+C:\Users\Aaron\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csprojAssemblyReference.cache
+C:\Users\Aaron\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\EmployeeHierarchy.csproj.CoreCompileInputs.cache
